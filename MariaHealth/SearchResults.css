@@ -1,0 +1,132 @@
+#headerInfo{
+	float:right;
+}
+
+#moreDetails, #Comparison, #filter, #comparisonTool, #header, .plan, .choice{
+		border: grey solid 1px;
+}
+
+/* above are common css elements between all pages, refactor later*/
+
+#details, #order{
+	border: solid black 1px;
+}
+
+#header{
+	padding: 10px;
+	font-size: 25px;
+}
+
+#Comparison{
+	margin: auto;
+	margin-top: 2em;
+	width: 50%;
+	height: 50em;
+
+}
+
+#options{
+	margin: auto;
+	margin-top: 2em;
+	width: 75%;
+	height: 50em;
+}
+
+.plan{
+	background-color:white;
+	padding: 5px;
+	margin: auto;
+	height: 20em;
+	margin-bottom: 1em;
+
+}
+
+.plan img{
+	height: 80px;
+	width: 130px;
+	margin: 1em;
+	float: left;
+}
+
+#list{
+	margin-left: 1em;
+	float: left;
+	width: 58%;
+}
+#filter{
+	float:left;
+
+	width: 23%;
+	height: 30em;
+}
+
+#backButton{
+	padding: 5px;
+	color: white;
+	background-color: black;
+	font-size: 20px;
+}
+
+#comparisonTool{
+	float:right;
+	width: 15%;
+	height: 75%;
+	position: fixed;
+    top: 120px;
+    right: 150px;
+}
+
+table{
+	clear: both;
+}
+
+ table, th, td{
+	border: solid black 1px;
+	border-collapse: collapse;
+	margin: 1em;
+	text-align: left;
+	padding: 5px;
+}
+
+#filterTitle{
+	border-bottom: 1px black solid;
+	padding: 10px;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.title{
+	width: 10%;
+}
+
+.data{
+	width: 20%;
+}
+
+#CompareButton{
+	position: absolute;
+	bottom: 3px;
+	left: 35%;
+}
+
+.seePlan, #CompareButton, .addToComparison{
+	float: right;
+	background-color: green;
+	color: white;
+	padding: 10px;
+	margin-right: 3px;
+}
+
+.choice{
+	width: 90%;
+	margin: auto;
+	margin-top: 2em;
+	height: 20%;
+}
+
+.plan img{
+	height: 80px;
+	width: 130px;
+	margin: 1em;
+	float: left;
+}

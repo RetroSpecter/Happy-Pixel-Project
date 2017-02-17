@@ -1,0 +1,55 @@
+#headerInfo{
+	float:right;
+}
+
+#header{
+	padding: 10px;
+	font-size: 25px;
+	border-bottom: grey 1px solid;
+}
+
+/* above are common css elements between all pages, refactor later*/
+
+#catchphrase{
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+}
+
+#SME, #Individual{
+	text-align: center;
+	color: white;
+	width: 50%;
+	height: 20em;
+}
+
+#SME{
+	background-color: green;
+	float:left;
+}
+
+#Individual{
+	background-color: blue;
+	float:right;
+}
+
+.button{
+	background-color: black;
+	padding: 5px;
+	margin: auto;
+	width:25%;
+}
+
+#plans h1, #plans h3{
+	padding: 0px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+#plans h1{
+	width: 50%;
+}
+
+#plans h3{
+	width: 35%;
+}
