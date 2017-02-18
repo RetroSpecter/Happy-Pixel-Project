@@ -18,7 +18,15 @@
 #details{
 	border: solid grey 1px;
 	width:  55%;
-	height: 30em;
+	height: 20em;
+	overflow: hidden;
+	font-size: 25px;
+
+}
+
+#details > ul{
+	margin: 2em;
+	margin-top: 0.5em;
 }
 
 #order{
@@ -77,4 +85,8 @@
 	padding: 3px;
 	margin: 3px;
 	margin-right: 0;
+}
+
+#tabs input{
+	display: none;
 }
