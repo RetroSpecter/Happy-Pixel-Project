@@ -1,0 +1,65 @@
+<ul>
+	<li>Estimated Price</li>
+	<li>Length of coverage: 1 year</li>
+	<li>Coverage Limit: Php 40,000 to 80,000</li>
+	<li>Nature</li>
+	<ul>
+		<li>Emergency room care</li>
+		<li>Hospitilization</li>
+	</ul>
+	<li>Age Eligibility: 18 Years - 60 years</li>
+</ul>
+|
+<ul>
+	<li>Hospitilization and emergency room care</li>
+	<li>Conditions that require confinement</li>
+	<li>Examples of Conditions</li>
+	<ul>
+		<li>Appendicitis</li>
+		<li>Bronchitis</li>
+		<li>Gastritis</li>
+		<li>Dengue fever</li>
+	</ul>
+</ul>
+
+|
+<ul>
+	<li>Fees</li>
+	<ul>
+		<li>Emergency room</li>
+		<li>Doctor fees</li>
+		<li>Room and Board (in case of admission)</li>
+	</ul>
+	<li>Medicines for treatment and relief (there might be exceptions)</li>
+	<li>Special modalities of treatment</li>
+	<li>Fatality coverage</li>
+	<ul>
+		<li>Life Insurance: Php 10,000</li>
+		<li>Accidental death or dismemberment: Php 50,000</li>
+	</ul>
+	<li>Access to Go!Mobile App</li>
+	<li>Participation in Philhealth's 360 health and wellness programs</li>
+</ul>
+|
+More variants: <br />
+Php 40,000 limit & ward room (default) <br />
+Php 60,000 limit & semi private room <br />
+Php 80,000 limit & private room <br />
+
+|
+<ul>
+	<li>What does this plan not cover?</li>
+	<ul>
+		<li>Accidents because of member's misconduct</li>
+		<li>Cerebrovascular stroke</li>
+		<li>None emergency conditions</li>
+	</ul>
+	<li>What happens after one year of activating the card?</li>
+	<ul>
+		<li>You have to wait 3 months to purchase a new card</li>
+	</ul>
+	<li>Can I have multiple cards in my name</li>
+	<ul>
+		<li>No, there should only be one active card at any given time</li>
+	</ul>
+</ul>
