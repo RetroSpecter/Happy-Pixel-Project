@@ -1,22 +1,42 @@
 #headerInfo{
-	float:right;
+	float: right;
+	font-size: 18px;
 }
 
 #header{
-	padding: 10px;
+	padding: 1px;
 	font-size: 25px;
+	font-family: 'Open Sans', sans-serif;
 	border-bottom: grey 1px solid;
 }
 
+div.tab {
+		overflow: hidden;
+		border: 1px solid #ccc;
+		background-color: #f1f1f1;
+}
+
+div.tab a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 5px 8px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 18px;
+}
 /* above are common css elements between all pages, refactor later*/
 
 #catchphrase{
-	padding: 20px;
-	margin: 20px;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	padding: 15px;
+	margin: 15px;
 	text-align: center;
 }
 
 #SME, #Individual{
+	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 	color: white;
 	width: 50%;
@@ -25,6 +45,7 @@
 
 #SME{
 	background-color: green;
+
 	float:left;
 }
 
@@ -37,13 +58,14 @@
 	background-color: black;
 	padding: 5px;
 	margin: auto;
+	margin-top: 15px;
 	width:25%;
 }
 
 #plans h1, #plans h3{
 	padding: 0px;
 	margin: auto;
-	margin-top: 50px;
+	margin-top: 30px;
 }
 
 #plans h1{
