@@ -75,3 +75,25 @@ div.tab a {
 #plans h3{
 	width: 35%;
 }
+
+#orientation img, #supporters img, #reviews img, #footer img, #disclaimer img{
+	display: block;
+    margin: auto;
+	width: 70%;
+}
+
+#supporters{
+	padding: 3em;
+}
+
+#reviews{
+	background-color: #ccdce3;
+}
+
+#footer{
+	background-color: #4d4d4d;
+}
+
+#disclaimer{
+	background-color: #666;
+}
