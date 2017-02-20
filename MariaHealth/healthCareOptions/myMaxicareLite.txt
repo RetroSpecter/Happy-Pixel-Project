@@ -1,1 +1,46 @@
-My Maxicare Lite|Php 1599|One Time|80,000|Emergency|18 to 80
+<ul>
+	<li>Estimated Price: Php 1599</li>
+	<li>Length of coverage: 1 year</li>
+	<li>Coverage Limit: Php 25,000</li>
+	<li>Nature</li>
+	<ul>
+		<li>Hospitalization/Confinement</li>
+	</ul>
+	<li>Age Eligibility: 2 Years - 60 years</li>
+</ul>
+|
+
+|
+<ul>
+	<li>Confinement for:</li>
+  <ul>
+    <li>Dengue</li>
+    <li>Malaria</li>
+    <li>Cholera</li>
+    <li>Typhoid and paratyphoid</li>
+    <li>Gastroenteritis</li>
+    <li>Pneumonia</li>
+    <li>Chikungunya</li>
+    <li>Leptospirosis</li>
+  </ul>
+  <li>Doctor's fees</li>
+	<li>Room and board accommodation</li>
+  <li>Use of operating room, ICU</li>
+  <li>Standard nursing services</li>
+  <li>Tests and equipment</li>
+</ul>
+|
+More variants: <br />
+Access to Maxicare's accredited hospitals<br />
+
+|
+<ul>
+	<li>What happens after one year of activating the card?</li>
+	<ul>
+		<li>You have to wait 3 months to purchase a new card</li>
+	</ul>
+	<li>Can I have multiple cards in my name</li>
+	<ul>
+		<li>No, there should only be one active card at any given time</li>
+	</ul>
+</ul>

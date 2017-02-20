@@ -1,1 +1,63 @@
-Maxicare Eready|Php 549|One Time|80,000|Emergency|18 to 80
+<ul>
+	<li>Estimated Price: Php 549</li>
+	<li>Length of coverage: 1 year</li>
+	<li>Coverage Limit: Php 15,000</li>
+  <li>Nature</li>
+  <ul>
+  		<li>Emergency</li>
+  </ul>
+  	<li>Age Eligibility: 15 days - 65 years</li>
+</ul>
+  |
+  <ul>
+  	<li>Unexpected medical emergencies and issues that require urgent medical assistance.</li>
+  	<li>Examples of Conditions</li>
+  	<ul>
+  		<li>Hear attacks</li>
+  		<li>Cardiovascular or cerebrovascular accidents</li>
+  		<li>Loss of consciousness</li>
+  		<li>Convulsions</li>
+  	</ul>
+  </ul>
+
+  |
+  <ul>
+  	<li>Fees</li>
+  	<ul>
+  		<li>Emergency room</li>
+  		<li>Doctor fees</li>
+  	</ul>
+  	<li>Medicines for treatment and relief (there might be exceptions)</li>
+  	<li>Laboratory and diagnostic procedures</li>
+  	<li>Initial treatment for animal bites (first 24 hours)</li>
+  	<li>Discounts</li>
+  		<ul>
+  			<li>20% discount on basic procedures in Metro Dental Clinic</li>
+  			<li>15% discount on dermatological procedures at any Maria Health Clinic</li>
+  		</u>
+  	<li>Fatality coverage: Php 25,000</li>
+  	<li>Access to Maxicare's accredited hospitals</li>
+  </ul>
+  |
+  Include access to top hospitals: <br />
+  Asian Hospital and Medical Center<br />
+  Cardinal Santos Medical Center<br />
+  St.Luke's Medical Center (BGC)<br />
+  St.Luke's Medical Center (QC)<br />
+  The Medical City<br />
+  <li>Price: Php 200</li>
+  |
+  <ul>
+  	<li>What does this plan not cover?</li>
+  	<ul>
+  		<li>Hospitalization or confinement</li>
+  	</ul>
+  	<li>What happens after one year of activating the card?</li>
+  	<ul>
+  		<li>You have to wait 3 months to purchase a new card</li>
+  	</ul>
+  	<li>Can I have multiple cards in my name</li>
+  	<ul>
+  		<li>No, there should only be one active card at any given time</li>
+  	</ul>
+  </ul>
