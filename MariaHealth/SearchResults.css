@@ -6,6 +6,20 @@
 		border: grey solid 1px;
 }
 
+#footer{
+	background-color: #4d4d4d;
+}
+
+#disclaimer{
+	background-color: #666;
+}
+
+#orientation img, #supporters img, #reviews img, #footer img, #disclaimer img{
+	display: block;
+    margin: auto;
+	width: 70%;
+}
+
 /* above are common css elements between all pages, refactor later*/
 
 #details, #order{
@@ -69,11 +83,12 @@
 
 #comparisonTool{
 	float:right;
-	width: 15%;
-	height: 75%;
+	width: 75%;
+	height: 10%;
+	margin: auto;
 	position: fixed;
-    top: 120px;
-    right: 150px;
+    bottom: 0px;
+	background-color: white;
 }
 
 table{
@@ -87,6 +102,18 @@ table{
 	text-align: left;
 	padding: 5px;
 }
+
+#Comparison table{
+	height: 75%;
+	margin: auto;
+	margin-top: 5%;
+}
+
+#Comparison th{
+	 width: 25%;
+	 margin: auto;
+
+ }
 
 #filterTitle{
 	border-bottom: 1px black solid;
@@ -105,8 +132,8 @@ table{
 
 #CompareButton{
 	position: absolute;
-	bottom: 3px;
-	left: 35%;
+	bottom: 30%;
+	left: 92%;
 }
 
 .seePlan, #CompareButton, .addToComparison{
@@ -117,11 +144,42 @@ table{
 	margin-right: 3px;
 }
 
-.choice{
-	width: 90%;
+#Comparison .seePlan{
+	text-align: center;
+	float: none;
 	margin: auto;
-	margin-top: 2em;
-	height: 20%;
+}
+
+.choice, #comparisonTool > p{
+	width: 20%;
+	height: 75%;
+	float: left;
+	margin: 1em;
+	bottom: 30%;
+}
+
+.choice p{
+	margin: auto;
+	text-align: center;
+	width: 82%;
+	float:left;
+	padding-top: 8%;
+	height: 100%;
+	font-size: 120%;
+}
+
+.clearChoice{
+	border: grey solid 1px;
+	float: right;
+	text-align: center;
+	padding-top: 10%;
+	width: 10%;
+	height: 100%;
+}
+
+.clearChoice:hover{
+	border: grey solid 1px;
+	background-color: grey;
 }
 
 .plan img{
@@ -130,3 +188,4 @@ table{
 	margin: 1em;
 	float: left;
 }
+

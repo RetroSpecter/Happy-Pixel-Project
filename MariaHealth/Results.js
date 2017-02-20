@@ -7,7 +7,28 @@
 		$("backButton").onclick = switchViews;
 		$("CompareButton").onclick = switchViews;
 		
+		var addButtons = document.querySelectorAll(".addToComparison");
+		for(var i = 0; i < addButtons.length; i++){
+			addButtons[i].onclick = addChoice;
+		}
 	};
+	
+	function addChoice(){
+		var comparisonBars = document.querySelectorAll(".choice");
+		for(var i = 0; i < comparisonBars.length;i++){
+			if(comparisonBars[i].querySelector("p") == null){
+				appendAnObject(comparisonBars[i], "p", this.classList[1]);
+				var clearButton = appendAnObject(comparisonBars[i], "div", "X", "clearChoice");
+				clearButton.onclick = clearChoice;
+				
+				break;
+			}
+		}
+	}
+	
+	function clearChoice(){
+		this.parentElement.innerHTML = "";
+	}
 	
 	function switchViews(){
 		
